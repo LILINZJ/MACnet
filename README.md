@@ -1,2 +1,2 @@
 # MACnet
-Our paper is currently under review and will be updated once it is accepted
+Our paper is currently under review and we will update README.md once it is accepted
